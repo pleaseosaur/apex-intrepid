@@ -1,0 +1,1 @@
+If you are familiar with 2D photo editing; these masks can be used inside of Photoshop or GIMP to change the colors or modify the textures.

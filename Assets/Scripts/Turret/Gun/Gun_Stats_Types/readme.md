@@ -1,0 +1,1 @@
+These scripts are implementing/extending Gun_Stats, and will be attached to prefabs to provide stats for that type of weapon.  

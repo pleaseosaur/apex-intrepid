@@ -1,0 +1,1 @@
+These scripts are for implementing Gun_Fire.cs's fire method. Any new scripts in here should be implementing gunfire.  
