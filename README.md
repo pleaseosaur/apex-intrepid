@@ -1,6 +1,6 @@
 # Apex Intrepid
 
-_A Unity-based fusion of roguelike shooter and tower defense developed by Group 7 at Western Washington University._
+_A Unity-based fusion of roguelike shooter and tower defense developed by Andrew Cox, Mason Yonkers, and Evan Asche at Western Washington University._
 
 ## 🎮 Game Overview
 
